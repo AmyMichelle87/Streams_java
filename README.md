@@ -9,6 +9,7 @@ Class Invoice includes four properties
 • a PartDescription (type String ),
 
 • a Quantity of the item being purchased (type int ) and
+
 • a Price (type double ).
 
 Perform the following queries on the List of Invoice objects and display the results:
