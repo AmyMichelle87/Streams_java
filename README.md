@@ -5,7 +5,9 @@ Use the class Invoice to create a List of Invoice objects. Use the sample data s
 Class Invoice includes four properties
 
 • a PartNumber (type int ),
+
 • a PartDescription (type String ),
+
 • a Quantity of the item being purchased (type int ) and
 • a Price (type double ).
 
